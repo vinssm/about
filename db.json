@@ -8,19 +8,19 @@
     },
     {
       "ID": 2,
-      "skills": "Cinematography",
+      "Skills": "Cinematography",
       "Gig" : "Red",
       "Model" : "KOMODO 6k"
     },
     {
       "ID": 3,
-      "skills": "Drone",
+      "Skills": "Drone",
       "Gig" : "DJI",
       "Model" : "DJI Pro"
     },
     {
       "ID": 4,
-      "skills": "Editing",
+      "Skills": "Editing",
       "Gig" : "FCP",
       "Model" : "Final Cut Pro "
     }
