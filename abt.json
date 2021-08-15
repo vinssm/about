@@ -1,0 +1,28 @@
+{
+  "info": [
+    {
+      "ID": 1,
+      "Skills": "Photography",
+      "Gig" : "Canon",
+      "Model" : "Markiv"
+    },
+    {
+      "ID": 2,
+      "skills": "Cinematography",
+      "Gig" : "Red",
+      "Model" : "KOMODO 6k"
+    },
+    {
+      "ID": 3,
+      "skills": "Drone",
+      "Gig" : "DJI",
+      "Model" : "DJI Pro"
+    },
+    {
+      "ID": 4,
+      "skills": "Editing",
+      "Gig" : "FCP",
+      "Model" : "Final Cut Pro "
+    }
+  ]
+}
